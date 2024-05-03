@@ -1,5 +1,5 @@
 ## Download the code
-```git clone ```
+```git clone "git@github.com:TaranChowdhury/SpotSense_WebApp.git"```
 
 ## Install Dependencies 
 ```npm install```
