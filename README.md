@@ -1,7 +1,8 @@
-```clone the repo```
+## Download the code
+```git clone ```
 
-Install Dependencies 
+## Install Dependencies 
 ```run npm install```
 
-Run Server
+## Run Server
 ```run npm run dev```
