@@ -1,0 +1,86 @@
+.three-steps-three {
+  height: 1.06rem;
+  width: 12.11rem;
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.three-steps-three-minutes-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0rem 1.11rem;
+}
+.everything-should-be {
+  margin: 0;
+  width: 43.78rem;
+  height: 3.33rem;
+  position: relative;
+  font-size: 2.78rem;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.frame-div {
+  width: 43.78rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.89rem;
+  max-width: 100%;
+}
+.frame-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0rem 1.17rem 0rem 1.11rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0rem;
+  max-width: 100%;
+  font-size: 1.56rem;
+}
+.frame-section {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.5rem;
+  max-width: 100%;
+  text-align: left;
+  font-size: 0.89rem;
+  color: #000;
+  font-family: Poppins;
+}
+
+@media screen and (max-width: 750px) {
+  .everything-should-be {
+    font-size: 2.22rem;
+    line-height: 2.67rem;
+  }
+
+  .frame-section {
+    gap: 1.22rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .everything-should-be {
+    font-size: 1.67rem;
+    line-height: 2rem;
+  }
+}

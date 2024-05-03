@@ -1,0 +1,140 @@
+.footer-contact-us {
+  margin: 0;
+  align-self: stretch;
+  height: 3.33rem;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  text-shadow: 1px 0 0 rgba(255, 255, 255, 0.5),
+    0 1px 0 rgba(255, 255, 255, 0.5), -1px 0 0 rgba(255, 255, 255, 0.5),
+    0 -1px 0 rgba(255, 255, 255, 0.5);
+}
+.footer-contact-us-text {
+  position: relative;
+  font-size: 0.89rem;
+  line-height: 1.33rem;
+  text-align: left;
+  display: inline-block;
+  text-shadow: 1px 0 0 rgba(255, 255, 255, 0.5),
+    0 1px 0 rgba(255, 255, 255, 0.5), -1px 0 0 rgba(255, 255, 255, 0.5),
+    0 -1px 0 rgba(255, 255, 255, 0.5);
+  max-width: 100%;
+}
+.footer-control {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  max-width: 100%;
+}
+.enter-your-email1 {
+  width: 7.22rem;
+  height: 1.33rem;
+  position: relative;
+  line-height: 1.33rem;
+  display: inline-block;
+}
+.enter-your-email-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1rem 0rem 0rem;
+}
+.button-child {
+  height: 3.33rem;
+  width: 8.17rem;
+  position: relative;
+  border-radius: 40px;
+  background-color: #1f1f1f;
+  display: none;
+}
+.button-send {
+  height: 1.33rem;
+  width: 5.39rem;
+  position: relative;
+  font-size: 0.89rem;
+  line-height: 1.33rem;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fefeff;
+  text-align: left;
+  display: inline-block;
+  min-width: 5.39rem;
+  z-index: 1;
+}
+.button {
+  cursor: pointer;
+  border: none;
+  padding: 1rem 1.39rem;
+  background-color: #1f1f1f;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button:hover {
+  background-color: #525252;
+}
+.email {
+  width: 25.78rem;
+  border-radius: 40px;
+  background-color: #fefeff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0rem 0rem 0rem 1.11rem;
+  box-sizing: border-box;
+  gap: 1.11rem;
+  max-width: 100%;
+  text-align: left;
+  font-size: 0.89rem;
+  color: rgba(0, 0, 0, 0.45);
+}
+.footer-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  max-width: 100%;
+}
+.footer-inner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  box-sizing: border-box;
+  min-width: 23.17rem;
+  max-width: 100%;
+}
+.footer {
+  align-self: stretch;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0rem 1.39rem;
+  box-sizing: border-box;
+  gap: 9.44rem;
+  background-image: url("/images/rendering-isometric@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  text-align: center;
+  font-size: 2.78rem;
+  color: #000;
+  font-family: Poppins;
+}
+

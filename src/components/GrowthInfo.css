@@ -1,0 +1,367 @@
+.we-are-a {
+  margin: 0;
+  height: 6.67rem;
+  width: 43.61rem;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.we-are-a-global-boutique-real-wrapper {
+  width: 61.39rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0rem 1.11rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.the-transfer-of {
+  margin: 0;
+  width: 27.61rem;
+  height: 2.56rem;
+  position: relative;
+  font-size: inherit;
+  line-height: 2.56rem;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.lorem-ipsum-dolor {
+  height: 6.67rem;
+  flex: 1;
+  position: relative;
+  line-height: 1.33rem;
+  display: inline-block;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor-sit-amet-con-wrapper {
+  width: 26.44rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0rem 0.06rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 0.89rem;
+}
+.the-transfer-of-real-estate-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.33rem;
+  max-width: 100%;
+}
+.book-now {
+  height: 1.06rem;
+  width: 4.61rem;
+  position: relative;
+  font-size: 0.89rem;
+  line-height: 120%;
+  font-family: Poppins;
+  color: #fefeff;
+  text-align: left;
+  display: inline-block;
+  min-width: 4.61rem;
+}
+.book-now-wrapper {
+  cursor: pointer;
+  border: none;
+  padding: 1.14rem 1.94rem;
+  background-color: #1f1f1f;
+  border-radius: 40px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.book-now-wrapper:hover {
+  background-color: #525252;
+}
+.read-more {
+  height: 1.06rem;
+  width: 4.78rem;
+  position: relative;
+  font-size: 0.89rem;
+  line-height: 120%;
+  font-family: Poppins;
+  color: #1f1f1f;
+  text-align: left;
+  display: inline-block;
+  min-width: 4.78rem;
+}
+.read-more-wrapper {
+  cursor: pointer;
+  border: 1px solid #bebebe;
+  padding: 1.14rem 1.89rem;
+  background-color: #fefeff;
+  border-radius: 40px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.read-more-wrapper:hover {
+  background-color: #e6e6e6;
+  border: 1px solid #8a8a8a;
+  box-sizing: border-box;
+}
+.frame-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.33rem;
+  max-width: 100%;
+}
+.div {
+  width: 6rem;
+  height: 4.44rem;
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 6rem;
+}
+.customers {
+  width: 4.89rem;
+  height: 1.06rem;
+  position: relative;
+  font-size: 0.89rem;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 4.89rem;
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.28rem;
+}
+.div1 {
+  width: 6.33rem;
+  height: 4.44rem;
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 6.33rem;
+}
+.offices {
+  width: 3.11rem;
+  height: 1.06rem;
+  position: relative;
+  font-size: 0.89rem;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 3.11rem;
+}
+.div2 {
+  width: 6.28rem;
+  height: 4.44rem;
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 6.28rem;
+}
+.students {
+  width: 3.94rem;
+  height: 1.06rem;
+  position: relative;
+  font-size: 0.89rem;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 3.94rem;
+}
+.frame-parent7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.11rem;
+  font-size: 3.72rem;
+}
+.frame-parent5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.5rem;
+  max-width: 100%;
+}
+.frame-wrapper2 {
+  width: 28.83rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.69rem 0rem 0rem;
+  box-sizing: border-box;
+  min-width: 28.83rem;
+  max-width: 100%;
+}
+.image-1-icon {
+  height: 32.06rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 19.83rem;
+}
+.frame-parent4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 9.78rem;
+  max-width: 100%;
+  text-align: left;
+  font-size: 2.11rem;
+}
+.frame-parent3 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  max-width: 100%;
+}
+.home-page-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0rem 3.83rem 0rem 3.89rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 2.78rem;
+  color: #000;
+  font-family: Poppins;
+}
+
+@media screen and (max-width: 1250px) {
+  .frame-wrapper2 {
+    flex: 1;
+  }
+
+  .frame-parent4 {
+    flex-wrap: wrap;
+    gap: 4.89rem;
+  }
+
+  .home-page-inner {
+    padding-left: 1.94rem;
+    padding-right: 1.89rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .we-are-a {
+    font-size: 2.22rem;
+    line-height: 2.67rem;
+  }
+
+  .the-transfer-of {
+    font-size: 1.67rem;
+    line-height: 2rem;
+  }
+
+  .div {
+    font-size: 3rem;
+    line-height: 3.56rem;
+  }
+
+  .div1 {
+    font-size: 3rem;
+    line-height: 3.56rem;
+  }
+
+  .div2 {
+    font-size: 3rem;
+    line-height: 3.56rem;
+  }
+
+  .frame-parent7 {
+    flex-wrap: wrap;
+  }
+
+  .frame-parent5 {
+    gap: 1.72rem;
+  }
+
+  .frame-wrapper2 {
+    padding-top: 1.78rem;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+
+  .image-1-icon {
+    min-width: 100%;
+  }
+
+  .frame-parent4 {
+    gap: 2.44rem;
+  }
+
+  .frame-parent3 {
+    gap: 1.22rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .we-are-a {
+    font-size: 1.67rem;
+    line-height: 2rem;
+  }
+
+  .the-transfer-of {
+    font-size: 1.28rem;
+    line-height: 1.5rem;
+  }
+
+  .frame-parent6 {
+    flex-wrap: wrap;
+  }
+
+  .div {
+    font-size: 2.22rem;
+    line-height: 2.67rem;
+  }
+
+  .div1 {
+    font-size: 2.22rem;
+    line-height: 2.67rem;
+  }
+
+  .div2 {
+    font-size: 2.22rem;
+    line-height: 2.67rem;
+  }
+
+  .frame-parent5 {
+    gap: 0.89rem;
+  }
+
+  .frame-parent4 {
+    gap: 1.22rem;
+  }
+}

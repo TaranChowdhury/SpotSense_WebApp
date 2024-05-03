@@ -1,0 +1,97 @@
+.build-icon {
+  height: 3rem;
+  max-width: 100%;
+}
+
+.build-wrapper {
+  height: 2rem;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.logo {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.56rem;
+}
+
+.logo-wrapper {
+  width: 5.22rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0rem 0rem 0.9rem;
+  box-sizing: border-box;
+}
+
+.about-us {
+  align-self: stretch;
+  height: 1.06rem;
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.about-us-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.14rem 0rem 0rem;
+}
+
+.projects {
+  align-self: stretch;
+  height: 1.06rem;
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+
+.frame-parent {
+  border-radius: 40px;
+  background-color: #fefeff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1rem 1.97rem;
+  box-sizing: border-box;
+  gap: 1.94rem;
+  max-width: 100%;
+}
+
+.header {
+  align-self: stretch;
+  height: 4.78rem;
+  border-radius: 70px;
+  background-color: #fafafa;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0.72rem 1.56rem 0.72rem 1.33rem;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: 1.11rem;
+  max-width: 100%;
+  text-align: left;
+  font-size: 0.89rem;
+  color: #1f1f1f;
+  font-family: Poppins;
+}

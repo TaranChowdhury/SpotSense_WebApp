@@ -1,0 +1,39 @@
+.image-icon {
+  width: 4.17rem;
+  height: 4.17rem;
+  position: relative;
+}
+.title {
+  margin: 0;
+  height: 1.89rem;
+  position: relative;
+  font-size: inherit;
+  line-height: 1.89rem;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.description {
+  width: 18.28rem;
+  height: 4rem;
+  position: relative;
+  font-size: 0.89rem;
+  line-height: 1.33rem;
+  display: inline-block;
+  max-width: 100%;
+  text-align: center;
+}
+.image-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.22rem;
+  min-width: 19.17rem;
+  max-width: 100%;
+  text-align: left;
+  font-size: 1.56rem;
+  color: #000;
+  font-family: Poppins;
+}

@@ -1,0 +1,102 @@
+.best-project-of {
+  width: 10.67rem;
+  height: 1.06rem;
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.our-recent-projects {
+  margin: 0;
+  height: 3.33rem;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.group-icon {
+  height: 2.5rem;
+  width: 2.5rem;
+  position: relative;
+  min-height: 2.5rem;
+}
+.frame-parent2 {
+  height: 2.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.89rem;
+}
+.header-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.44rem 0rem 0rem;
+}
+.our-recent-projects-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 1.11rem;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0rem 0.17rem 0rem 0.11rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 2.78rem;
+}
+.projectflow {
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.11rem;
+  max-width: 100%;
+}
+.best-project-of-the-years-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.72rem;
+  max-width: 100%;
+  text-align: left;
+  font-size: 0.89rem;
+  color: #000;
+  font-family: Poppins;
+}
+
+@media screen and (max-width: 750px) {
+  .our-recent-projects {
+    font-size: 2.22rem;
+    line-height: 2.67rem;
+  }
+
+  .our-recent-projects-parent {
+    flex-wrap: wrap;
+  }
+
+  .best-project-of-the-years-parent {
+    gap: 0.83rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-recent-projects {
+    font-size: 1.67rem;
+    line-height: 2rem;
+  }
+}

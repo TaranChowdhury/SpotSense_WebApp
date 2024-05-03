@@ -1,0 +1,175 @@
+.hero-text {
+  width: 9.78rem;
+  height: 1.06rem;
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  text-shadow: 1px 0 0 rgba(255, 255, 255, 0.5),
+    0 1px 0 rgba(255, 255, 255, 0.5), -1px 0 0 rgba(255, 255, 255, 0.5),
+    0 -1px 0 rgba(255, 255, 255, 0.5);
+}
+.hero-heading {
+  margin: 0;
+  align-self: stretch;
+  height: 8.89rem;
+  position: relative;
+  font-size: 3.72rem;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  text-shadow: 1px 0 0 rgba(255, 255, 255, 0.5),
+    0 1px 0 rgba(255, 255, 255, 0.5), -1px 0 0 rgba(255, 255, 255, 0.5),
+    0 -1px 0 rgba(255, 255, 255, 0.5);
+}
+.hero-description {
+  width: 24.17rem;
+  height: 2.67rem;
+  position: relative;
+  line-height: 1.33rem;
+  display: inline-block;
+  text-shadow: 1px 0 0 rgba(255, 255, 255, 0.5),
+    0 1px 0 rgba(255, 255, 255, 0.5), -1px 0 0 rgba(255, 255, 255, 0.5),
+    0 -1px 0 rgba(255, 255, 255, 0.5);
+  max-width: 100%;
+}
+.zipcode-field-child {
+  align-self: stretch;
+  width: 24.33rem;
+  position: relative;
+  border-radius: 40px;
+  background-color: #fefeff;
+  display: none;
+  max-width: 100%;
+}
+.enter-your-zipcode {
+  height: 1.33rem;
+  position: relative;
+  line-height: 1.33rem;
+  display: inline-block;
+  z-index: 1;
+}
+.enter-your-zipcode-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1rem 0rem 0rem;
+}
+.rectangle-div {
+  height: 3.33rem;
+  width: 8.17rem;
+  position: relative;
+  border-radius: 40px;
+  background-color: #1f1f1f;
+  display: none;
+}
+.hero-find-button {
+  height: 1.33rem;
+  width: 5.39rem;
+  position: relative;
+  font-size: 0.89rem;
+  line-height: 1.33rem;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fefeff;
+  text-align: left;
+  display: inline-block;
+  min-width: 5.39rem;
+  z-index: 1;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: none;
+  padding: 1rem 1.39rem;
+  background-color: #1f1f1f;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-group:hover {
+  background-color: #525252;
+}
+.zipcode-field {
+  width: 24.33rem;
+  border-radius: 40px;
+  background-color: #fefeff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0rem 0rem 0rem 1.33rem;
+  box-sizing: border-box;
+  gap: 1.11rem;
+  max-width: 100%;
+  color: rgba(0, 0, 0, 0.45);
+}
+.hero-heading-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.33rem;
+  max-width: 100%;
+}
+.hero-locations {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.83rem;
+  max-width: 100%;
+}
+.hero-wrapper {
+  width: 26.61rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.56rem 0rem 0rem;
+  box-sizing: border-box;
+  min-width: 26.61rem;
+  max-width: 100%;
+}
+.image-2-icon {
+  height: 30.56rem;
+  width: 36rem;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.hero {
+  align-self: stretch;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0rem 1.39rem;
+  box-sizing: border-box;
+  background-image: url("/images/rendering-isometric@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  gap: 1.11rem;
+  text-align: left;
+  font-size: 0.89rem;
+  color: #000;
+  font-family: Poppins;
+}
+.zip-code-input{
+  border: none;
+    height: 47px;
+    width: 222px;
+}
+.zip-code-input:focus{ 
+    outline: none; 
+    border: none; 
+}
