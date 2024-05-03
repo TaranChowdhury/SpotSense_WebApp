@@ -1,3 +1,7 @@
-## clone the repo
-## run npm install
-## run npm run dev
+```clone the repo```
+
+Install Dependencies 
+```run npm install```
+
+Run Server
+```run npm run dev```
