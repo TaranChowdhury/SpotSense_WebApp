@@ -2,7 +2,7 @@
 ```git clone ```
 
 ## Install Dependencies 
-```run npm install```
+```npm install```
 
 ## Run Server
-```run npm run dev```
+```npm run dev```
