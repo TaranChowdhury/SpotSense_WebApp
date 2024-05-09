@@ -93,7 +93,9 @@ const ParkingList = () => {
       `http://localhost:3001/places?lat=${lat}&lng=${lng}`
     );
     const placesData = await placesResponse.json();
-    debugger;
+
+   
+   
     console.log(placesData);
     setPlaceData(placesData.results);
   }
@@ -111,7 +113,7 @@ const ParkingList = () => {
     return <div>Loading maps</div>;
   }
 
-  const markerIconUrl = 'https://maps.google.com/mapfiles/ms/icons/blue-dot.png';
+  const markerIconUrl = 'https://maps.google.com/mapfiles/ms/icons/red-dot.png';
 
   return (
     <div className="body-container">
@@ -121,8 +123,7 @@ const ParkingList = () => {
         <Row>
           <Col lg={4} className="parking-list-details">
             <div className="list-content">
-              <h3 className="text-center">Reserve your spot</h3>
-              <h4>Single Booking</h4>
+              <h3 className="text-center">Nearby Parking Locations</h3>             
               <div className="list-search">
                 <span>Book Parking Near</span>
                 <InputGroup className="mb-3">

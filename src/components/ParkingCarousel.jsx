@@ -12,7 +12,7 @@ const ParkingCarousel = () => {
       </div>
       <div className="projectflow">
         <ParkingCard
-          image3="/images/image-3@2x.png"
+          image3="/images/image-parking1.jpg"
           title="Sobha Hearland I Villas"
           description="Lorem ipsum dolor sit amet consectetur. Adipiscing imperdiet bibendum"
           starinactivebig="/images/starinactivebig.svg"
@@ -24,7 +24,7 @@ const ParkingCarousel = () => {
           propMinWidth="2.125rem"
         />
         <ParkingCard
-          image3="/images/image-4@2x.png"
+          image3="/images/image-parking2.jpg"
           title="Sobha Hearland II Villas"
           description="Lorem ipsum dolor sit amet consectetur. Adipiscing imperdiet bibendum."
           starinactivebig="/images/starinactivebig.svg"
@@ -36,7 +36,7 @@ const ParkingCarousel = () => {
           propMinWidth="1.83rem"
         />
         <ParkingCard
-          image3="/images/image-5@2x.png"
+          image3="/images/image-parking3.jpg"
           title="Sobha Hearland II Villas"
           description="Lorem ipsum dolor sit amet consectetur. Adipiscing imperdiet bibendum."
           starinactivebig="/images/starinactivebig.svg"
@@ -48,7 +48,7 @@ const ParkingCarousel = () => {
           propMinWidth="1.83rem"
         />
         <ParkingCard
-          image3="/images/image-5@2x.png"
+          image3="/images/image-parking4.jpg"
           title="Sobha Hearland II Villas"
           description="Lorem ipsum dolor sit amet consectetur. Adipiscing imperdiet bibendum."
           starinactivebig="/images/starinactivebig.svg"
