@@ -17,7 +17,7 @@ app.get('/places', async (req, res) => {
     // Prepare an array to store promises for distance matrix API requests
     const distancePromises = data.results.map(async (result) => {
       const distanceResponse = await fetch(
-        `https://maps.googleapis.com/maps/api/distancematrix/json?origins=${req.query.lat},${req.query.lng}&destinations=${result.geometry.location.lat},${result.geometry.location.lng}&key=AIzaSyAs_e0VMyp1kkQJyVkZAgzS8KcIQjSW-S0`
+        `https://maps.googleapis.com/maps/api/distancematrix/json?origins=${req.query.lat},${req.query.lng}&destinations=${result.geometry.location.lat},${result.geometry.location.lng}&units=imperial&key=AIzaSyAs_e0VMyp1kkQJyVkZAgzS8KcIQjSW-S0`
       );
       const distanceData = await distanceResponse.json();
       

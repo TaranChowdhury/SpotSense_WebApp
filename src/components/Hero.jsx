@@ -60,7 +60,7 @@ const Hero = () => {
         className="image-2-icon"
         loading="lazy"
         alt=""
-        src="/images/image-2@2x.png"
+        src="/images/image-parking2.jpg"
       />
     </section>
   );

@@ -13,8 +13,8 @@ const ParkingCarousel = () => {
       <div className="projectflow">
         <ParkingCard
           image3="/images/image-parking1.jpg"
-          title="Sobha Hearland I Villas"
-          description="Lorem ipsum dolor sit amet consectetur. Adipiscing imperdiet bibendum"
+          title="City Central Parking"
+          description="Conveniently located at the heart of downtown Cityville."
           starinactivebig="/images/starinactivebig.svg"
           starinactivebig1="/images/starinactivebig-1.svg"
           starinactivebig2="/images/starinactivebig-2.svg"
@@ -25,8 +25,8 @@ const ParkingCarousel = () => {
         />
         <ParkingCard
           image3="/images/image-parking2.jpg"
-          title="Sobha Hearland II Villas"
-          description="Lorem ipsum dolor sit amet consectetur. Adipiscing imperdiet bibendum."
+          title="City Town Parking"
+          description="Our parking lot offers safe and secure parking for your vehicle."
           starinactivebig="/images/starinactivebig.svg"
           starinactivebig1="/images/starinactivebig-1.svg"
           starinactivebig2="/images/starinactivebig-2.svg"
@@ -37,8 +37,8 @@ const ParkingCarousel = () => {
         />
         <ParkingCard
           image3="/images/image-parking3.jpg"
-          title="Sobha Hearland II Villas"
-          description="Lorem ipsum dolor sit amet consectetur. Adipiscing imperdiet bibendum."
+          title="Main Parking"
+          description="With affordable hourly and daily rates, as well as monthly passes available."
           starinactivebig="/images/starinactivebig.svg"
           starinactivebig1="/images/starinactivebig-1.svg"
           starinactivebig2="/images/starinactivebig-2.svg"
@@ -49,8 +49,8 @@ const ParkingCarousel = () => {
         />
         <ParkingCard
           image3="/images/image-parking4.jpg"
-          title="Sobha Hearland II Villas"
-          description="Lorem ipsum dolor sit amet consectetur. Adipiscing imperdiet bibendum."
+          title="SK Parking"
+          description="Park with confidence at SK Parking and enjoy your time in Cityville worry-free!."
           starinactivebig="/images/starinactivebig.svg"
           starinactivebig1="/images/starinactivebig-1.svg"
           starinactivebig2="/images/starinactivebig-2.svg"

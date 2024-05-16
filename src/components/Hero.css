@@ -143,6 +143,7 @@
   position: relative;
   object-fit: cover;
   max-width: 100%;
+  top: 1.7rem;
 }
 .hero {
   align-self: stretch;
@@ -163,6 +164,7 @@
   font-size: 0.89rem;
   color: #000;
   font-family: Poppins;
+  height: 34rem;
 }
 .zip-code-input{
   border: none;

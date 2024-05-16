@@ -125,7 +125,7 @@ const ParkingList = () => {
             <div className="list-content">
               <h3 className="text-center">Nearby Parking Locations</h3>             
               <div className="list-search">
-                <span>Book Parking Near</span>
+                <span>Search Parking Near Me</span>
                 <InputGroup className="mb-3">
                   <InputGroup.Text id="basic-addon1"><CiSearch /></InputGroup.Text>
                   <Form.Control
